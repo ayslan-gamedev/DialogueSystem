@@ -1,13 +1,14 @@
 using System;
 
-namespace DialogueSystem.Runtime.DialogueStruct
+namespace DialogueSystem.Struct
 {
     [Serializable]
-    public struct DialogueLine
+    public class DialogueLine
     {
         public string name;
         public string dialogueText;
-        public Emotion emotion;
+        public Character character;
         // TODO add events
+
     }
 }

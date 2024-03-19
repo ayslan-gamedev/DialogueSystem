@@ -1,12 +1,12 @@
 using System;
 using UnityEngine;
 
-namespace DialogueSystem.Runtime.DialogueStruct
+namespace DialogueSystem.Struct
 {
     [Serializable]
     public struct Emotion
     {
-        public EmotionTypes emotionType;
+        public EmotionType emotionType;
         public Sprite[] sprites;
     }
 }

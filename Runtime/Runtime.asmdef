@@ -1,7 +1,9 @@
 {
     "name": "Runtime",
     "rootNamespace": "DialogueSystem.Runtime",
-    "references": [],
+    "references": [
+        "GUID:d04d68a2e37453469afccc81d7f99495"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

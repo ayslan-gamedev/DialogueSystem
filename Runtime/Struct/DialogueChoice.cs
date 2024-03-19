@@ -1,6 +1,6 @@
 using System;
 
-namespace DialogueSystem.Runtime.DialogueStruct
+namespace DialogueSystem.Struct
 {
     [Serializable]
     public struct DialogueChoice

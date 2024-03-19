@@ -1,6 +1,6 @@
 {
     "name": "DialogueStruct",
-    "rootNamespace": "DialogueSystem.Runtime",
+    "rootNamespace": "DialogueSystem",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
