@@ -1,0 +1,24 @@
+{
+  "name": "com.ayslan.dialoguesystem",
+  "version": "1.0.0",
+  "displayName": "Dialogue System",
+  "description": "This is a samples dialogue system",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "1.0.0"
+  },
+  "keywords": [
+    "Dialogue",
+    "Tools"
+  ],
+  "author": "Ayslan-gamedev <ayslan.gamedev@gmail.com> (https://github.com/ayslan-gamedev)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
